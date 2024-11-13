@@ -29,7 +29,7 @@ let currentScore = 0; // Reset current score
 let activePlayer = 1; // 1 for Player 1, 2 for Player 2
 let player1Score = 0;
 let player2Score = 0;
-const winScore = 50;
+const winScore = 100;
 
 
 
